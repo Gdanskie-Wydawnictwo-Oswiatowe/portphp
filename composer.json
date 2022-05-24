@@ -46,10 +46,5 @@
         "phpspec/phpspec": "7.1.x-dev",
         "doctrine/instantiator": "^1.0.5",
         "doctrine/common": "^2.7"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        }
     }
 }
